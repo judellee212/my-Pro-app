@@ -12,3 +12,24 @@ img {
   border-radius: 20 px;
   width: 400px;
 }
+
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  margin: 40px auto;
+  font-size: 22px;
+  max-width: 70%;
+  text-align: center;
+}
+
+button {
+  display: block;
+  border-radius: 3px;
+  margin: 60px 30px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color:blue;
+  border-color: black;
+
+}
