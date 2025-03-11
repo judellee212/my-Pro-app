@@ -1,11 +1,14 @@
 h1 {
   color: rgb(38, 154, 154);
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
-.intro {
+.container {
   max-width: 80%;
 }
 img {
   display: block;
-  margin: auto;
+  margin: 30px auto;
+  border-radius: 20 px;
+  width: 400px;
 }
